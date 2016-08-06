@@ -1,0 +1,11 @@
+@RELATION kueep
+
+@ATTRIBUTE company {Apple,Google, HTC, Huawei, LG}
+@ATTRIBUTE os {iOS, Android}
+@ATTRIBUTE storage NUMERIC
+@ATTRIBUTE camera NUMERIC
+@ATTRIBUTE screen REAL
+@ATTRIBUTE class {iosB, iosS, androidB, androidS}
+
+@DATA
+Google, Android, 32, 16, 5.5, ?
