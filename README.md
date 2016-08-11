@@ -11,4 +11,4 @@ than we have the "data.arff" which contains the value we want to predicit, using
 #### HOW TO RUN?
 just hit the run command on Main class.
 you can change the values on "data.arff" if you want to classify different product.
--you will nade maven to run it.
+-you will need maven to run it.
